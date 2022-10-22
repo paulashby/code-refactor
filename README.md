@@ -18,7 +18,7 @@ The initial refactoring work was undertaken by a group of four students - Lili B
 
 ## Installation
 
-If for any reason you would like to deploy the website yourself, simply fork this repository, go to the Settings page of your fork on GitHub and set the 'Branch' dropdown to 'master'.
+If for any reason you would like to deploy the website yourself, simply fork this repository, go to the Settings page of your fork on GitHub, select Pages and set the 'Branch' dropdown to 'master'.
 
 ## Usage
 
