@@ -28,7 +28,7 @@ If you would like to view the files in their intial state, check [the initial co
 
 [This](https://github.com/paulashby/code-refactor/tree/d2d186694ad3504f9ddba9235b6bbc76c876ac57) is where we'd got to after the first session, working as a team of four.
 
-And of course, the latest commit is the files in their completed state.
+The most recent commit shows the files in their finished state. As mentioned above, we each worked alone to complete the refactoring process in our own time.
 
 ## Credits
 Thanks to [the Trilogy Skills Bootcamp in Front-End Web Development](https://skillsforlife.edx.org/coding/frontend/landing/?s=Google-Unbranded&pkw=web%20design%20training&pcrid=624628533241&pmt=p&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CSKILLS-FOR-LIFE%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CNBD-G%7CBMM%7CPrimary%7CSubject-Matter&utm_term=web%20design%20training&s=google&k=web%20design%20training&utm_adgroupid=140443158663&utm_locationphysicalms=1006886&utm_matchtype=p&utm_network=g&utm_device=c&utm_content=624628533241&utm_placement=&gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmMdwBRSe3BLeaChkukN5Bbqb18220k1ku9TB2o9tzsX0xYUc-dlRWgaAuyvEALw_wcB&gclsrc=aw.ds) for providing the initial files and dreaming up the exercise. Thanks also to Philip Howley, the course Instructor and Brooke Love, my personal teaching assistant.
